@@ -1,0 +1,4 @@
+data/creditcard.csv
+models/
+__pycache__/
+*.pyc
